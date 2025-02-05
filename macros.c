@@ -9,9 +9,6 @@
 #define true 1
 #define false 0
 #define error -1
-#define TYPE_STRING 0
-#define TYPE_NUM 1
-#define TYPE_BOOL 2
 #define bool _Bool
 #define _f(x) free(x)
 #define _ff(x) x[0]='\0'
